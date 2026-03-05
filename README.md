@@ -30,3 +30,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=allenliu-ui&radius=16&hide_border=true&area=true" />
 </p>
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/allenliuswe
+- Email: allenliu042007@gmail.com
