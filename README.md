@@ -12,6 +12,9 @@
 
 ### Computer Science @ UC Berkeley interested in full-stack web applications, data analytics, and game development.
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allenliu-ui&radius=16&hide_border=true&area=true" />
+</p>
 
 ## 🛠 Tech Stack
 
