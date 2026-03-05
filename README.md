@@ -12,9 +12,12 @@
 
 ### Computer Science @ UC Berkeley interested in full-stack web applications, data analytics, and game development.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allenliu-ui&radius=16&hide_border=true&area=true" />
-</p>
+## 👨‍💻 About Me
+
+- 🎓 Computer Science @ UC Berkeley
+- 📊 Data Analyst for the UC Berkeley Central Sierra Snow Lab
+- ⚾ Exploring sports analytics and data-driven applications
+- 🧠 Currently learning Data Structures and Algorithms
 
 ## 🛠 Tech Stack
 
@@ -23,3 +26,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Scheme](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allenliu-ui&radius=16&hide_border=true&area=true" />
+</p>
